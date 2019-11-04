@@ -171,6 +171,27 @@ body {
   border: 1px solid #222;
 }
 
+.contact-text {
+  font-size: 12px;
+}
+
+.social-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.social-item {
+  list-style: none;
+}
+
+.social-icon {
+  display: block;
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 3px #222;
+}
+
 .footer {
   padding: 20px 0;
   font-size: 14px;
